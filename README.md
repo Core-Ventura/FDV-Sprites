@@ -11,3 +11,6 @@ Actividades a realizar:
 Para realizar la actividad he 
 
 1) Los sprites utilizados los he dibujado utilizando **Krita**, tras ello, generé los spritesheets de las animaciones riggeando el personaje y animándolo con **Spriter**. 
+
+
+![](Gif-FDV2.gif)
