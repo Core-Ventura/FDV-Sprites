@@ -10,7 +10,7 @@ Actividades a realizar:
 
 Para realizar la actividad he realizado una pequeña escena, en la que nos encontraremos al jugador representado por un hámster con mostacho y un soldado el cual vigila el portón del castillo. La idea es que cuando el jugador se acerque al guardia, este le salude y abra la puerta.
 
-1) Los sprites utilizados los he dibujado utilizando **Krita**.
+1) Todos los sprites utilizados los he dibujado utilizando **Krita**.
 2) Generé los spritesheets de las animaciones riggeando el personaje y animándolo con **Spriter**. 
 3) La propiedad *Flip* voltea horizontalmente el Sprite Renderer, no obstante, es mejor multiplicar la escala (X) del Transform del GameObject por -1, ya que de este modo haremos *Flip* a todos sus componentes.
 4) Se ha creado la clase **PlayerController**, que define el movimiento del personaje.
